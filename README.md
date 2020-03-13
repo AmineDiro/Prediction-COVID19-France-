@@ -11,8 +11,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://raw.githubusercontent.com/AmineDiro/Prediction-COVID19-France-/master/Data/COVID19_open_line_list.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/AmineDiro/Prediction-COVID19-France-">
+    <img src="Data/COVID19_open_line_list.png" alt="Logo">
   </a>
 
   <h3 align="center">Prediction COVID19 France</h3>
